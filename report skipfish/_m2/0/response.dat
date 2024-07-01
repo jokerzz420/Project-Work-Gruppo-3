@@ -1,0 +1,19 @@
+HTTP/1.1 200 Partial Content
+Access-Control-Allow-Origin: *
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Feature-Policy: payment 'self'
+X-Recruiting: /#/jobs
+Accept-Ranges: bytes
+Cache-Control: public, max-age=0
+Last-Modified: Fri, 24 May 2024 20:04:15 GMT
+ETag: W/"3aee-18fac343a18"
+Content-Type: image/x-icon
+Content-Range: bytes 0-15085/15086
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Thu, 27 Jun 2024 10:25:22 GMT
+Connection: keep-alive
+Keep-Alive: timeout=5
+Transfer-Encoding: chunked
+
