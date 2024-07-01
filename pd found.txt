@@ -1,0 +1,9 @@
+email="admin@juice-sh.op"  		password=  admin123
+email="bender@juice-sh.op" 		password=  
+email="stan@juice-sh.op"    		password=  
+email="uvogin@juice-sh.op"    		password=  
+email="jim@juice-sh.op"    		password=  
+email="mc.safesearch@juice-sh.op"    	password=  
+email="accountant@juice-sh.op"    	password=  
+email="morty@juice-sh.op"   		password=  
+email="bjoern@owasp.org"    		password= 
